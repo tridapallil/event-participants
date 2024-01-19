@@ -5,12 +5,9 @@ With an intuitive and user-friendly interface, the app allows users to add and r
 
 ## Key Features:
 
-### 1. Adding Guests
-
-### 2. Removing Guests
-
-### 3. List Guests
-- **Organized List:** The guest list is presented in an organized manner, displaying participant details clearly and legibly.
+- **Adding Guests**
+- **Removing Guests**
+- **Organized List**
 
 ## Technologies Used:
 
