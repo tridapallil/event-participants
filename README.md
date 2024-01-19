@@ -5,7 +5,7 @@ With an intuitive and user-friendly interface, the app allows users to add and r
 
 ## Key Features:
 
-### 3. Adding Guests
+### 1. Adding Guests
 
 ### 2. Removing Guests
 
